@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "COMET",
+    "description": "",
+    "home_page_url": "https://sushant-05.github.io/COMET",
+    "feed_url": "https://sushant-05.github.io/COMET/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sushant Aditya"
+    },
+    "items": [
+    ]
+}
